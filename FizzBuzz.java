@@ -18,6 +18,6 @@ public class FizzBuzz {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter ur number:");
 		int n = input.nextInt();
-		System.out.println(printStringinput(n));
+		System.out.println("Resule"+printStringinput(n));
 	}
 }
